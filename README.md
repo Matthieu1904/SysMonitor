@@ -1,7 +1,7 @@
 # Projet SysMonitor
 Projet d'Application Shell de Gestion des Processus.
 
-Outil shell avancé capable d'interagir avec /proc, d'afficher et gérer les informations sysètmes, les systèmes.
+Outil shell avancé capable d'interagir avec /proc, d'afficher et gérer les informations sysètmes, etc.
 
 # Options:
 - (par défaut)	Afficher un résumé des informations systèmes (CPU, RAM, uptime, etc.)
