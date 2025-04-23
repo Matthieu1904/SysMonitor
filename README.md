@@ -1,4 +1,4 @@
-# SysMonitor
+# Projet SysMonitor
 Projet d'Application Shell de Gestion des Processus.
 
 Outil shell avancé capable d'interagir avec /proc, d'afficher et gérer les informations sysètmes, les systèmes.
